@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote fetch="https://github.com/" name="github" review=""/>
+  <default remote="github" revision="master"/>
+
+  <project groups="Libs" name="rebolek/prot-redis" path="Libs/rebolek/prot-redis" revision="master"/>
+  <project groups="Libs" name="rebolek/REN" path="Libs/rebolek/REN" revision="master"/>
+  <project groups="Libs" name="rgchris/AltXML" path="Libs/rgchris/AltXML" revision="master"/>
+  <project groups="Libs" name="rebolek/json" path="Libs/rebolek/json" revision="master"/>
+  <project groups="Libs" name="rebolek/r2e2" path="Libs/rebolek/r2e2" revision="master"/>
+  <project groups="Libs" name="ldci/glfw-rebol" path="Libs/ldci/glfw-rebol" revision="master"/>
+  <project groups="Libs" name="ldci/OpenCV-rebol" path="Libs/ldci/OpenCV-rebol" revision="master"/>
+  <project groups="Libs" name="hostilefork/uscii" path="Libs/hostilefork/uscii" revision="master"/>
+  <project groups="Libs" name="hostilefork/rebol-disqus" path="Libs/hostilefork/rebol-disqus" revision="master"/>
+  <project groups="Libs" name="earl/r3-zmq" path="Libs/earl/r3-zmq" revision="master"/>
+  <project groups="Libs" name="kronwiz/r3-mysql" path="Libs/kronwiz/r3-mysql" revision="master"/>
+  <project groups="Libs" name="zsx/mysql-r3" path="Libs/zsx/mysql-r3" revision="master"/>
+  <project groups="Libs" name="johnk-/rebol-twitter" path="Libs/johnk-/rebol-twitter" revision="master"/>
+  <project groups="Libs" name="refaktor/Rebol2-PBKDF2" path="Libs/refaktor/Rebol2-PBKDF2" revision="master"/>
+  <project groups="Libs" name="moliad/liquid-libs" path="Libs/moliad/liquid-libs" revision="master"/>
+  <project groups="Libs" name="moliad/win32-libs" path="Libs/moliad/win32-libs" revision="master"/>
+  <project groups="Libs" name="Oldes/R3-extension-iMagick" path="Libs/Oldes/R3-extension-iMagick" revision="master"/>
+  <project groups="Libs" name="Oldes/R3-extension-FMOD" path="Libs/Oldes/R3-extension-FMOD" revision="master"/>
+
+  <project groups="Misc" name="moliad/misc-libs" path="Misc/moliad/misc-libs" revision="master"/> 
+  <project groups="Misc" name="rgchris/Scripts" path="Misc/rgchris/Scripts" revision="master"/> 
+  <project groups="Misc" name="greggirwin/OpenME" path="Misc/greggirwin/OpenME" revision="master"/> 
+  <project groups="Misc" name="draegtun/rebol-GatherTake" path="Misc/draegtun/rebol-GatherTake" revision="master"/> 
+  <project groups="Misc" name="draegtun/RebolScripts" path="Misc/draegtun/RebolScripts" revision="master"/> 
+  <project groups="Misc" name="gchiu/rebol-misc" path="Misc/gchiu/rebol-misc" revision="master"/> 
+  <project groups="Misc" name="rebolek/user.reds" path="Misc/rebolek/user.reds" revision="master"/> 
+  <project groups="Misc" name="cyphre/r3-scripts" path="Misc/cyphre/r3-scripts" revision="master"/> 
+  <project groups="Misc" name="cyphre/rebol" path="Misc/cyphre/rebol" revision="master"/> 
+  <project groups="Misc" name="dockimbel/printer-driver" path="Misc/dockimbel/printer-driver" revision="master"/> 
+  <project groups="Misc" name="WayneTsui/re-scripts" path="Misc/WayneTsui/re-scripts" revision="master"/> 
+  <project groups="Misc" name="giuliolunati/prog" path="Misc/giuliolunati/prog" revision="master"/> 
+  <project groups="Misc" name="rebolek/dvorek" path="Misc/rebolek/dvorek" revision="master"/> 
+  <project groups="Misc" name="tmpbci/tcposc" path="Misc/tmpbci/tcposc" revision="master"/> 
+  <project groups="Misc" name="tmpbci/rebosc" path="Misc/tmpbci/rebosc" revision="master"/> 
+  <project groups="Misc" name="tmpbci/kinectjunior" path="Misc/tmpbci/kinectjunior" revision="master"/> 
+  <project groups="Misc" name="tmpbci/dnastory" path="Misc/tmpbci/dnastory" revision="master"/> 
+  <project groups="Misc" name="moliad/utils-libs" path="Misc/moliad/utils-libs" revision="master"/> 
+  <project groups="Misc" name="earl/rebol3" path="Misc/earl/rebol3" revision="master"/> 
+  <project groups="Misc" name="tormaroe/rebol-stuff" path="Misc/tormaroe/rebol-stuff" revision="master"/> 
+  <project groups="Misc" name="LouGit/rebol_things" path="Misc/LouGit/rebol_things" revision="master"/> 
+  <project groups="Misc" name="Oldes/REBOL-scripts" path="Misc/Oldes/REBOL-scripts" revision="master"/> 
+  <project groups="Misc" name="Oldes/rs" path="Misc/Oldes/rs" revision="master"/> 
+  <project groups="Misc" name="debugger87/rebol-code" path="Misc/debugger87/rebol-code" revision="master"/> 
+  <project groups="Misc" name="spreelanka/rebol_stuff" path="Misc/spreelanka/rebol_stuff" revision="master"/> 
+  <project groups="Misc" name="rebol/projects" path="Misc/rebol/projects" revision="master"/> 
+
+  <project groups="Android" name="giuliolunati/rebol-lib" path="Android/giuliolunati/rebol-lib" revision="master"/> 
+  <project groups="Android" name="giuliolunati/rebol3-sl4a" path="Android/giuliolunati/rebol3-sl4a" revision="master"/> 
+<!--  <project groups="Android" name="damonkohler/sl4a" path="Android/damonkohler/sl4a" revision="master"/> -->
+
+  <project groups="GUI" name="saphirion/r3-gui" path="GUI/saphirion/r3-gui" revision="master"/> 
+  <project groups="GUI" name="saphirion/RebGUI" path="GUI/saphirion/RebGUI" revision="master"/> 
+  <project groups="GUI" name="rebolek/1000cows" path="GUI/rebolek/1000cows" revision="master"/> 
+  <project groups="GUI" name="henrikmk/VID-Extension-Kit" path="GUI/henrikmk/VID-Extension-Kit" revision="master"/> 
+  <project groups="GUI" name="moliad/glass" path="GUI/moliad/glass" revision="master"/> 
+  <project groups="GUI" name="moliad/glass-libs" path="GUI/moliad/glass-libs" revision="master"/> 
+  <project groups="GUI" name="trsoluti/RebolView" path="GUI/trsoluti/RebolView" revision="master"/> 
+
+  <project groups="WebDev" name="rgchris/QuarterMaster" path="WebDev/rgchris/QuarterMaster" revision="master"/>
+  <project groups="WebDev" name="dockimbel/cheyenne" path="WebDev/dockimbel/cheyenne" revision="master"/>
+  <project groups="WebDev" name="onetom/cheyenne-build" path="WebDev/onetom/cheyenne-build" revision="master"/>
+  <project groups="WebDev" name="rebolek/lest" path="WebDev/rebolek/lest" revision="master"/>
+  <project groups="WebDev" name="hostilefork/draem" path="WebDev/hostilefork/draem" revision="master"/>
+  <project groups="WebDev" name="earl/vanilla" path="WebDev/earl/vanilla" revision="master"/>
+  <project groups="WebDev" name="onetom/github-webhook" path="WebDev/onetom/github-webhook" revision="master"/>
+  <project groups="WebDev" name="WayneTsui/rebol-websocket" path="WebDev/WayneTsui/rebol-websocket" revision="master"/>
+  <project groups="WebDev" name="grantwparks/rebol-quickbase-api" path="WebDev/grantwparks/rebol-quickbase-api" revision="master"/>
+  <project groups="WebDev" name="grantwparks/rebol-opensearch-proxy" path="WebDev/grantwparks/rebol-opensearch-proxy" revision="master"/>
+  <project groups="WebDev" name="moechofe/RebolKyotoTycoon" path="WebDev/moechofe/RebolKyotoTycoon" revision="master"/>
+  <project groups="WebDev" name="moechofe/TokyoTyrant-protocol-for-Rebol" path="WebDev/moechofe/TokyoTyrant-protocol-for-Rebol" revision="master"/>
+  <project groups="WebDev" name="rgchris/StyleTalk" path="WebDev/rgchris/StyleTalk" revision="master"/>
+
+  <project groups="WebSites" name="rgchris/QM-Starter" path="WebSites/rgchris/QM-Starter" revision="master"/> 
+  <project groups="WebSites" name="rgchris/Red-Lang.org" path="WebSites/rgchris/Red-Lang.org" revision="master"/> 
+  <project groups="WebSites" name="hostilefork/realityhandbook.org" path="WebSites/hostilefork/realityhandbook.org" revision="master"/> 
+  <project groups="WebSites" name="gchiu/freediams-rebol-webportal" path="WebSites/gchiu/freediams-rebol-webportal" revision="master"/> 
+  <project groups="WebSites" name="gchiu/rebol.net" path="WebSites/gchiu/rebol.net" revision="master"/> 
+  <project groups="WebSites" name="dockimbel/curecode" path="WebSites/dockimbel/curecode" revision="master"/> 
+  <project groups="WebSites" name="hostilefork/hostilefork.com" path="WebSites/hostilefork/hostilefork.com" revision="master"/> 
+  <project groups="WebSites" name="revault/help.rebol.org" path="WebSites/revault/help.rebol.org" revision="master"/> 
+  <project groups="WebSites" name="revault/library.rebol.net" path="WebSites/revault/library.rebol.net" revision="master"/> 
+  <project groups="WebSites" name="revault/desktop.rebol.info" path="WebSites/revault/desktop.rebol.info" revision="master"/> 
+  <project groups="WebSites" name="angerangel/rebolforum" path="WebSites/angerangel/rebolforum" revision="master"/> 
+  <project groups="WebSites" name="johnk-/rebol.info" path="WebSites/johnk-/rebol.info" revision="master"/> 
+
+  <project groups="Fun" name="hostilefork/rubol" path="Fun/hostilefork/rubol" revision="master"/>
+  <project groups="Fun" name="hostilefork/rebmu" path="Fun/hostilefork/rebmu" revision="master"/>
+  <project groups="Fun" name="onetom/rebol-prolog" path="Fun/onetom/rebol-prolog" revision="master"/>
+  <project groups="Fun" name="gchiu/rebolbot" path="Fun/gchiu/rebolbot" revision="master"/>
+  <project groups="Fun" name="gchiu/RSOChat" path="Fun/gchiu/RSOChat" revision="master"/>
+  <project groups="Fun" name="zygmuntz/kaggle-happiness" path="Fun/zygmuntz/kaggle-happiness" revision="master"/>
+
+  <project groups="Projects" name="tmpbci/reboluino" path="Projects/tmpbci/reboluino" revision="master"/>
+  <project groups="Projects" name="tmpbci/Cyb" path="Projects/tmpbci/Cyb" revision="master"/>
+  <project groups="Projects" name="tmpbci/jBMM" path="Projects/tmpbci/jBMM" revision="master"/>
+  <project groups="Projects" name="tmpbci/jprocessing" path="Projects/tmpbci/jprocessing" revision="master"/>
+
+  <project groups="DevTool" name="moliad/slim-complete-set" path="DevTool/moliad/slim-complete-set" revision="master"/>
+  <project groups="DevTool" name="moliad/slim" path="DevTool/moliad/slim" revision="master"/>
+  <project groups="DevTool" name="moliad/steel" path="DevTool/moliad/steel" revision="master"/>
+  <project groups="DevTool" name="angerangel/rebolide" path="DevTool/angerangel/rebolide" revision="master"/>
+  <project groups="DevTool" name="draegtun/PrettifyRebol" path="DevTool/draegtun/PrettifyRebol" revision="master"/>
+  <project groups="DevTool" name="rgchris/Rebol-Syntax-for-ACE-Editor" path="DevTool/rgchris/Rebol-Syntax-for-ACE-Editor" revision="master"/>
+  <project groups="DevTool" name="rgchris/rebol-tmbundle" path="DevTool/rgchris/rebol-tmbundle" revision="master"/>
+  <project groups="DevTool" name="onetom/edn-rebol" path="DevTool/onetom/edn-rebol" revision="master"/>
+  <project groups="DevTool" name="rebolek/parse-c-header" path="DevTool/rebolek/parse-c-header" revision="master"/>
+  <project groups="DevTool" name="hostilefork/whitespacers" path="DevTool/hostilefork/whitespacers" revision="master"/>
+  <project groups="DevTool" name="BrianHawley/r2-forward" path="DevTool/BrianHawley/r2-forward" revision="master"/>
+  <project groups="DevTool" name="Oldes/Sublime" path="DevTool/Oldes/Sublime" revision="master"/>
+
+  <project groups="News" name="hostilefork/rebol-red-cc" path="News/hostilefork/rebol-red-cc" revision="master"/>
+  <project groups="News" name="johnk-/rebol-parse-tutorial" path="News/johnk-/rebol-parse-tutorial" revision="master"/>
+  <project groups="News" name="saphirion/documentation" path="News/saphirion/documentation" revision="master"/>
+
+</manifest>
